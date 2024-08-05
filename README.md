@@ -7,7 +7,7 @@
 
 ## 用法
 
-> 如果 Github 下载困难，也可以使用 [阿里云盘](https://www.alipan.com/s/biwoA42wv7v) 下载，提取码: 20pj
+> 如果 Github 下载困难，可以右键复制 assets 的 apk 文件链接到 [Github 文件加速](https://tool.mintimate.cn/gh/) 下载
 
 1. 从 release 下载安装包
 2. 在安卓设备上安装

@@ -9,15 +9,18 @@
 
 > 如果 Github 下载困难，可以右键复制 assets 的 apk 文件链接到 [Github 文件加速](https://tool.mintimate.cn/gh/) 下载
 
-1. 从 release 下载安装包
+1. [从 release 下载安装包](https://github.com/Hi-Windom/android-webview/releases)
 2. 在安卓设备上安装
-3. 重启系统
+3. **重启手机系统**
 
 > [!TIP]
 > 实测 vivo oppo 联想可以直接安装。
 
 > [!NOTE]
 > 小米系统无法直接安装 webview 更新。需要先在开发者选项中临时关闭系统优化（原 MIUI 优化），安装 webview 更新后再打开系统优化即可。
+
+> [!WARNING]  
+> 安装更新后不重启手机系统可能无法正常使用 webview
 
 ## 回退
 

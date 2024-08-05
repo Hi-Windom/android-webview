@@ -1,6 +1,8 @@
 # android-webview
 
+<a href="https://github.com/Hi-Windom/android-webview/releases">
 <img src="https://img.shields.io/github/downloads/Hi-Windom/android-webview/total.svg?style=flat-square&logo=github" height="31"/>
+</a>
 
 
 ## 用法

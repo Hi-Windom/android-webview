@@ -1,5 +1,8 @@
 # android-webview
 
+<img src="https://img.shields.io/github/downloads/Hi-Windom/android-webview/total.svg?style=flat-square&logo=github" height="31"/>
+
+
 ## 用法
 
 1. 从 release 下载安装包

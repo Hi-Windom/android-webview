@@ -29,3 +29,5 @@
 ## 来源
 
 从 https://www.apkmirror.com/ 下载 arm64-v8a + armeabi-v7a 非捆绑 apk
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Hi-Windom&fontSize=90&fontAlign=50&fontAlignY=70&desc=Power%20by%20&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
